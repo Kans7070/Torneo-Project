@@ -1,0 +1,16 @@
+.OTP_header_holder{
+    height: 88px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.OTP_header{
+    width: fit-content;
+}
+.OTP_form_field{
+    justify-content: center;
+    align-items: center;
+}
+.MuiTypography-root{
+    cursor: pointer;
+}

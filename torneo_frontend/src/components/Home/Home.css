@@ -1,0 +1,19 @@
+.home_option_holder{
+    text-align: center;
+}
+.home_option_container{
+  background-color: #101010;
+
+}
+.home_options_logo img{
+  width: 100%;
+}
+.home_option{
+  background: white;
+  width: 80%;
+  margin:0 auto;
+  padding:10px;
+  cursor: pointer;
+}
+
+

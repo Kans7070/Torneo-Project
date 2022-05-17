@@ -1,0 +1,14 @@
+.navbar_holder{
+    height : 52px;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    
+}
+.navbar{
+    height :30px;  
+    display:flex;
+}
+.navbar p{
+    width :fit-content;
+}
